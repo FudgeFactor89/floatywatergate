@@ -2,11 +2,11 @@
 Default repo name for now. Also pretty generic description as well. 
 
 # Milestones
-Prototype is self-powered (no USB required)
-The prototype's battery can sustain itself for roughly a year
-I can use my phone to access the temperature on the prototype
-I can use Siri to access the temperature on the prototype
-The prototype is waterproof
+Prototype is self-powered (no USB required)<br/>
+The prototype's battery can sustain itself for roughly a year<br/>
+I can use my phone to access the temperature on the prototype<br/>
+I can use Siri to access the temperature on the prototype<br/>
+The prototype is waterproof<br/>
 
 # Issues
 What battery will suffice?<br/>
