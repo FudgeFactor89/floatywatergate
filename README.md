@@ -1,5 +1,6 @@
-# musical-garbanzo
-Default repo name for now. Also pretty generic description as well. 
+# floatywatergate
+Prototype name for now.
+floatywatergate is the codename for our prototype, the pool temperature sensor that can be accessed through Alexa as well as Siri.
 
 # Milestones
 Prototype is self-powered (no USB required)<br/>
